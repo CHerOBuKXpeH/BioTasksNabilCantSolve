@@ -132,3 +132,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/.idea/indexLayout.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
