@@ -2,6 +2,22 @@
 
 public static class ChicoFileHelper
 {
+    public static async Task<string[]> ReadLinesFromHere(this string path)
+    {
+        string[] result = [];
+        
+        try
+        {
+            result = await File.ReadAllLinesAsync(path);
+        }
+        catch (Exception e) when (e is IOException or UnauthorizedAccessException)
+        {
+            Console.WriteLine("Could not read file");
+            Environment.Exit(-1);
+        }
+        
+        return result;
+    }
     public static async Task<string> ReadTextFromHere(this string path)
     {
         var result = string.Empty;
