@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Counting_DNA_Nucleotides", "001_Counting_DNA_Nucleotides\001_Counting_DNA_Nucleotides.csproj", "{F0E4EFD0-4970-43C8-BA8C-86166F766AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Transcribing_DNA_into_RNA", "002_Transcribing_DNA_into_RNA\002_Transcribing_DNA_into_RNA.csproj", "{4B49B509-5920-41A4-860F-88232416E1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Complementing_a_Strand_of_DNA", "003_Complementing_a_Strand_of_DNA \003_Complementing_a_Strand_of_DNA.csproj", "{8A1A011F-AAB1-4442-8559-F7803FD4917E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Rabbits_and_Recurrence_Relations", "004_Rabbits_and_Recurrence_Relations\004_Rabbits_and_Recurrence_Relations.csproj", "{189CAFC6-9F99-4440-8042-C1AF2B11FD0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHelper", "FileHelper\FileHelper.csproj", "{E92D6EE6-6188-467B-A5F6-64E5D17B19F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E4EFD0-4970-43C8-BA8C-86166F766AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E4EFD0-4970-43C8-BA8C-86166F766AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E4EFD0-4970-43C8-BA8C-86166F766AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E4EFD0-4970-43C8-BA8C-86166F766AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B49B509-5920-41A4-860F-88232416E1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B49B509-5920-41A4-860F-88232416E1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B49B509-5920-41A4-860F-88232416E1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B49B509-5920-41A4-860F-88232416E1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1A011F-AAB1-4442-8559-F7803FD4917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1A011F-AAB1-4442-8559-F7803FD4917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1A011F-AAB1-4442-8559-F7803FD4917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1A011F-AAB1-4442-8559-F7803FD4917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189CAFC6-9F99-4440-8042-C1AF2B11FD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189CAFC6-9F99-4440-8042-C1AF2B11FD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189CAFC6-9F99-4440-8042-C1AF2B11FD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189CAFC6-9F99-4440-8042-C1AF2B11FD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92D6EE6-6188-467B-A5F6-64E5D17B19F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92D6EE6-6188-467B-A5F6-64E5D17B19F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92D6EE6-6188-467B-A5F6-64E5D17B19F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92D6EE6-6188-467B-A5F6-64E5D17B19F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
