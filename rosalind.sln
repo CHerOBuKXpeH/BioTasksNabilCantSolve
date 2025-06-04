@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Enumerating_Gene_Orders
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Calculating_Protein_Mass", "009_Calculating_Protein_Mass\009_Calculating_Protein_Mass.csproj", "{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Mendels_First_Law", "010_Mendels_First_Law\010_Mendels_First_Law.csproj", "{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
