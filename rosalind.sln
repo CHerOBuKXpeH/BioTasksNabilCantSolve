@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Translating_RNA_into_Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Enumerating_Gene_Orders", "008_Enumerating_Gene_Orders\008_Enumerating_Gene_Orders.csproj", "{2F076434-7DA7-4B54-8990-A632CCE27614}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Calculating_Protein_Mass", "009_Calculating_Protein_Mass\009_Calculating_Protein_Mass.csproj", "{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{2F076434-7DA7-4B54-8990-A632CCE27614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F076434-7DA7-4B54-8990-A632CCE27614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F076434-7DA7-4B54-8990-A632CCE27614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D56BC8B-0C81-425F-9137-8A19BEE40C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
