@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Counting_Point_Mutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Translating_RNA_into_Protein", "007_Translating_RNA_into_Protein\007_Translating_RNA_into_Protein.csproj", "{E4492137-24C7-423E-BC58-CDE9D0D0FFA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Enumerating_Gene_Orders", "008_Enumerating_Gene_Orders\008_Enumerating_Gene_Orders.csproj", "{2F076434-7DA7-4B54-8990-A632CCE27614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{E4492137-24C7-423E-BC58-CDE9D0D0FFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4492137-24C7-423E-BC58-CDE9D0D0FFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4492137-24C7-423E-BC58-CDE9D0D0FFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F076434-7DA7-4B54-8990-A632CCE27614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F076434-7DA7-4B54-8990-A632CCE27614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F076434-7DA7-4B54-8990-A632CCE27614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F076434-7DA7-4B54-8990-A632CCE27614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
