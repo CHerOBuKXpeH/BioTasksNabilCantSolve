@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Calculating_Protein_Mas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Mendels_First_Law", "010_Mendels_First_Law\010_Mendels_First_Law.csproj", "{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Mortal_Fibonacci_Rabbits", "011_Mortal_Fibonacci_Rabbits\011_Mortal_Fibonacci_Rabbits.csproj", "{F1076D4E-6F4B-4C6F-B09D-3270B4CEB4F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7EEF8AF-1295-49CC-9DAE-4EDFCF883A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1076D4E-6F4B-4C6F-B09D-3270B4CEB4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1076D4E-6F4B-4C6F-B09D-3270B4CEB4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1076D4E-6F4B-4C6F-B09D-3270B4CEB4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1076D4E-6F4B-4C6F-B09D-3270B4CEB4F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
